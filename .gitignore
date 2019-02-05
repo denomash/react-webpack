@@ -13,7 +13,6 @@ package-lock.json
 
 # production
 /build
-src/assets/style/**/*.css
 
 # misc
 /.idea
