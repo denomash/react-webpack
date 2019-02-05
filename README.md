@@ -1,3 +1,3 @@
 # react-webpack
 
-A basic react webpack application
+A basic react and webpack application.
